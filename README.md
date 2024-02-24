@@ -21,11 +21,11 @@ I am currently expanding my knowledge in the MERN stack and staying up-to-date w
     - Technologies used: React, Tailwind CSS, Node.js, Express js, Mongo Db , Socket io etc.
 
 - **Project 2:Movie Db(https://movie-db-pro.netlify.app)**
-  - Brief description of the project and your role.
+  
   - Technologies used: React, Tailwind CSS, Node.js, etc.
 
-  -**Project 3: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
-  - Brief description of the project and your role.
+- **Project 3: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
+ 
   - Technologies used: React, Material UI, MongoDB, etc.
   - 
 ## 🌐 Portfolio
