@@ -17,13 +17,16 @@ I'm a passionate MERN stack developer with a keen interest in crafting seamless 
 I am currently expanding my knowledge in the MERN stack and staying up-to-date with the latest technologies in web development. Continuous learning is a key aspect of my professional journey.
 
 ## 🌐 Projects
-- **Project 1: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
-  - Brief description of the project and your role.
-  - Technologies used: React, Material UI, MongoDB, etc.
+- **Project 1: MERN Chat App  (https://mern-chat-app-6nc2.onrender.com/)**
+    - Technologies used: React, Tailwind CSS, Node.js, Express js, Mongo Db , Socket io etc.
 
 - **Project 2:Movie Db(https://movie-db-pro.netlify.app)**
   - Brief description of the project and your role.
   - Technologies used: React, Tailwind CSS, Node.js, etc.
+ 
+  - **Project 3: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
+  - Brief description of the project and your role.
+  - Technologies used: React, Material UI, MongoDB, etc.
   - 
 ## 🌐 Portfolio
 Check out my Personal portfolio:[https://gautambishtportfolio.netlify.app/]
