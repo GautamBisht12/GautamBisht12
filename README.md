@@ -7,9 +7,10 @@ I'm a passionate MERN stack developer with a keen interest in crafting seamless 
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **UI Libraries**: Material UI, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
+- **Fulstack**:Next.Js
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify
+- **Deployment**: Vercel, Netlify
 
 
 
