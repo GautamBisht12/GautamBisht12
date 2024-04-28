@@ -20,16 +20,20 @@ I am currently expanding my knowledge in the MERN stack and staying up-to-date w
 - **Project 1: MERN Chat App  (https://mern-chat-app-6nc2.onrender.com/)**
     - Technologies used: React, Tailwind CSS, Node.js, Express js, Mongo Db , Socket io etc.
 
+- **Project 2:Music School UI(https://next-js-music-web.vercel.app/)**
+  
+  - Technologies used: Next JS and Aceternity UI.
+
 - **Project 2:Movie Db(https://movie-db-pro.netlify.app)**
   
-  - Technologies used: React, Tailwind CSS, Node.js, etc.
+  - Technologies used: React, Material UI , tmdb api, etc.
 
 - **Project 3: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
  
-  - Technologies used: React, Material UI, MongoDB, etc.
-  - 
+  - Technologies used: React, Tailwind CSS , Youtube api from Rapid api.
+    
 ## 🌐 Portfolio
-Check out my Personal portfolio:[https://gautambishtportfolio.netlify.app/]
+Check out my Personal portfolio:[http://gautambisht.rf.gd/]
 
 ## 🌱 Goals
 My goal is to enhance my skills in the MERN stack, explore new technologies, and contribute to meaningful projects that make a positive impact. I'm open to collaboration and always eager to take on new challenges.
