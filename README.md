@@ -1,7 +1,15 @@
 # Hello, I'm Gautam Bisht
 
 ## 👨‍💻 About Me
-I'm a passionate MERN stack developer with a keen interest in crafting seamless and responsive web applications. I specialize in leveraging the power of React to build dynamic user interfaces, and I'm well-versed in popular component libraries such as Material UI, Tailwind CSS, and Bootstrap.
+A highly motivated and adaptable MERN stack developer eager to kickstart a
+rewarding career in web development. Leveraging a solid foundation in MongoDB,
+Express.js, React.js, and Node.js acquired through academic projects, I am
+committed to applying my skills to real-world scenarios. Seeking an entry-level
+position where I can collaborate with experienced professionals, contribute to
+cutting-edge projects, and continue expanding my technical expertise. Passionate
+about creating seamless, user-centric web applications and dedicated to staying
+current with industry trends..
+
 
 ## 🚀 Skills
 - **Frontend**: React, HTML5, CSS3, JavaScript
