@@ -24,11 +24,11 @@ I am currently expanding my knowledge in the MERN stack and staying up-to-date w
   
   - Technologies used: Next JS and Aceternity UI.
 
-- **Project 2:Movie Db(https://movie-db-pro.netlify.app)**
+- **Project 3:Movie Db(https://movie-db-pro.netlify.app)**
   
   - Technologies used: React, Material UI , tmdb api, etc.
 
-- **Project 3: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
+- **Project 4: Youtube Clone (https://my-tube-youtube-clone.netlify.app)**
  
   - Technologies used: React, Tailwind CSS , Youtube api from Rapid api.
     
