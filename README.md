@@ -22,7 +22,7 @@ I leverage AI tools like ChatGPT and Claude to accelerate development, troublesh
 - **Extensions**: Chrome Extensions & TamperMonkey
 - **Wordpress**: Elementor , Woocommerce , Themes , cPanel
 - **Backend**: Node.js, Express.js
-- **Fulstack**:Next.Js
+- **Fullstack**:Next.Js & MERN Stack
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
 - **Deployment**: Vercel, Netlify
