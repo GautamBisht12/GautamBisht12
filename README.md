@@ -1,19 +1,26 @@
 # Hello, I'm Gautam Bisht
 
 ## 👨‍💻 About Me
-A highly motivated and adaptable MERN stack developer eager to kickstart a
-rewarding career in web development. Leveraging a solid foundation in MongoDB,
-Express.js, React.js, and Node.js acquired through academic projects, I am
-committed to applying my skills to real-world scenarios. Seeking an entry-level
-position where I can collaborate with experienced professionals, contribute to
-cutting-edge projects, and continue expanding my technical expertise. Passionate
-about creating seamless, user-centric web applications and dedicated to staying
-current with industry trends..
+Hello! I'm Gautam Bisht, a versatile developer with over 2 years of experience in web development. I specialize in creating beautiful, functional, and responsive web applications using modern technologies. My passion is to craft digital experiences that are both aesthetically pleasing and highly functional.
+
+## 💻Frontend Developer
+I build responsive web applications with React, focusing on performance, accessibility, and user experience. I'm proficient with modern JS frameworks, CSS-in-JS solutions, and state management libraries.
+
+## 💻 WordPress Developer
+I create custom WordPress themes and plugins, optimize site performance, and implement e-commerce solutions. I have extensive experience with WooCommerce, Advanced Custom Fields, and Gutenberg blocks.
+
+## 🐵 Extension Developer
+I develop Chrome extensions and Tampermonkey scripts that enhance browser functionality and automate tasks. My extensions focus on productivity, accessibility, and improved browsing experiences.
+
+# 🤖 AI-Enhanced Development
+I leverage AI tools like ChatGPT and Claude to accelerate development, troubleshoot issues, and brainstorm better solutions — enhancing both speed and quality of my work. This allows me to deliver smarter, faster, and more reliable web solutions.
 
 
 ## 🚀 Skills
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **UI Libraries**: Material UI, Tailwind CSS, Bootstrap
+- **Extensions**: Chrome Extensions & TamperMonkey
+- **Wordpress**: Elementor , Woocommerce , Themes , cPanel
 - **Backend**: Node.js, Express.js
 - **Fulstack**:Next.Js
 - **Database**: MongoDB
@@ -42,7 +49,7 @@ I am currently expanding my knowledge in the MERN stack and staying up-to-date w
   - Technologies used: React, Tailwind CSS , Youtube api from Rapid api.
     
 ## 🌐 Portfolio
-Check out my Personal portfolio:[http://gautambisht.rf.gd/]
+Check out my Personal portfolio:https://bishtgautam.netlify.app/
 
 ## 🌱 Goals
 My goal is to enhance my skills in the MERN stack, explore new technologies, and contribute to meaningful projects that make a positive impact. I'm open to collaboration and always eager to take on new challenges.
